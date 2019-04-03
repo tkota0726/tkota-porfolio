@@ -11,8 +11,8 @@
       "address": "",
       "postalCode": "",
       "city": "Tallinn",
-      "countryCode": "Estonia"
-      # "region": "Hawaii"
+      "countryCode": "Estonia",
+      "region": "Europe"
     },
     "profiles": [
       {
